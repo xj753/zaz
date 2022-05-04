@@ -1,0 +1,50 @@
+<annotation>
+	<folder>video</folder>
+	<filename>0167.jpg</filename>
+	<path>D:\新建文件夹\video\0167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1279</width>
+		<height>1706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Multimeter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>549</ymin>
+			<xmax>1119</xmax>
+			<ymax>1364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Screw holes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>647</ymin>
+			<xmax>443</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Screw holes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>838</ymin>
+			<xmax>289</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>

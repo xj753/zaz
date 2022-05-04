@@ -1,0 +1,38 @@
+<annotation>
+	<folder>video</folder>
+	<filename>0106.jpg</filename>
+	<path>D:\新建文件夹\video\0106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screw holes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>351</ymin>
+			<xmax>282</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Screw holes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>333</ymin>
+			<xmax>451</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
